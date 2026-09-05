@@ -1,4 +1,4 @@
-<img src="./ChatGPT Image Sep 5, 2026, 09_27_49 PM.png" Width=500px/>
+<img src="./ChatGPT Image Sep 5, 2026, 09_27_49 PM.png" Width=500px, Height=500px/>
 # 👋 Arash Yusefi
 
 ## Full-Stack Developer · Backend · Frontend · Game Developer
