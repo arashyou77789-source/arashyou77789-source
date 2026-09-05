@@ -1,4 +1,4 @@
-<img src="./ChatGPT Image Sep 5, 2026, 09_27_49 PM.png">
+<img src="./ChatGPT Image Sep 5, 2026, 09_27_49 PM.png"/>
 # 👋 Arash Yusefi
 
 ## Full-Stack Developer · Backend · Frontend · Game Developer
@@ -11,8 +11,8 @@ I'm **Arash Yusefi**, a developer passionate about **web development, backend sy
 
 `HTML` · `CSS` · `JavaScript` · `Python` · `Godot` · `Blender` · `Git` · `GitHub`
 
-##### 🚀 My Mindset
+#### 🚀 My Mindset
 
 Build. Break. Learn. Improve. Repeat
 
-###### ⚡ Think Sharp. Code Smart. Build Bold.
+##### ⚡ Think Sharp. Code Smart. Build Bold.
