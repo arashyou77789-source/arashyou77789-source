@@ -1,5 +1,5 @@
 <img src="./ChatGPT Image Sep 5, 2026, 09_27_49 PM.png" Width=500px, Height=500px/>
- <h1>Arash Yusefi</h1>
+ <h1>Arash Yousefi</h1>
 
 ## Full-Stack Developer · Backend · Frontend · Game Developer
 
