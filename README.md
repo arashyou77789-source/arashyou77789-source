@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Arash Yusefi
 
-<!--
-**arashyou77789-source/arashyou77789-source** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack Developer · Backend · Frontend · Game Developer
 
-Here are some ideas to get you started:
+### ⚡ I Build Ideas Into Reality
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **Arash Yusefi**, a developer passionate about **web development, backend systems, frontend experiences, AI and game development**.
+
+#### 🛠️ Tech Stack
+
+`HTML` · `CSS` · `JavaScript` · `Python` · `Godot` · `Blender` · `Git` · `GitHub`
+
+##### 🚀 My Mindset
+
+Build. Break. Learn. Improve. Repeat
+
+###### ⚡ Think Sharp. Code Smart. Build Bold.
